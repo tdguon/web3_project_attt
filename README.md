@@ -42,7 +42,7 @@ A secure, privacy-focused file sharing application that encrypts files on your b
 
 ```bash
 # Clone the repository
-git clone https://github.com/Poicitaco/WEB3demo.git
+git clone https://github.com/tdguon/web3_project_attt.git
 cd doan_attt
 
 # Install dependencies
